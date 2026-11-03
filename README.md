@@ -36,11 +36,11 @@ Computer Science graduate passionate about building user-centric products, solvi
 
 **3. VetCare**
 - Veterinary care platform focused on appointment booking and user experience.
-- [🌐 Live Demo](https://finance-dashboard-neon-delta.vercel.app/) | [💻 GitHub Repository](https://github.com/srijan118/finance-dashboard)
+- [Live Demo](https://vetcare-red-six.vercel.app/) | [GitHub](https://github.com/srijan118/vetcare)
 
 **4. Finance Dashboard**
 - Financial data visualisation and analytics.
-- [GitHub Repository](https://github.com/srijan118/finance-dashboard)
+- [🌐 Live Demo](https://finance-dashboard-neon-delta.vercel.app/) | [💻 GitHub Repository](https://github.com/srijan118/finance-dashboard)
 
 ---
 
