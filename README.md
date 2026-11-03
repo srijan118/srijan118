@@ -24,7 +24,6 @@ I'm a Computer Science graduate interested in building products that solve meani
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-srivastava-a64822227/)
-[![GitHub](https://img.shields.io/badge/GitHub-srijan118-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srijan118)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijan18.in@gmail.com)
 
 
