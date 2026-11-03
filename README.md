@@ -40,7 +40,7 @@ Computer Science graduate passionate about building user-centric products, solvi
 
 **4. Finance Dashboard**
 - Financial data visualisation and analytics.
-- [🌐 Live Demo](https://finance-dashboard-neon-delta.vercel.app/) | [💻 GitHub Repository](https://github.com/srijan118/finance-dashboard)
+- [Live Demo](https://finance-dashboard-neon-delta.vercel.app/) | [GitHub Repository](https://github.com/srijan118/finance-dashboard)
 
 ---
 
