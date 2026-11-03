@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi, I'm Srijan Srivastava 👋
+
+Aspiring Product Manager | Product Strategy | Data Analytics | AI & Technology
+
+I'm a Computer Science graduate interested in building products that solve meaningful user problems through technology, data, and thoughtful product decisions.
+
+I enjoy understanding user pain points, analysing product experiences, translating business requirements into actionable solutions, and collaborating across technical and business teams.
+
+My experience spans product and data reliability at Amazon, product operations and EDI workflows at Vensure, and software engineering at IIT Kanpur.
 
 <!--
 **srijan118/srijan118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
