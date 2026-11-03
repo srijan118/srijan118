@@ -7,7 +7,7 @@ I'm a Computer Science graduate interested in building products that solve meani
 
 ---
 
-## 🪐 About Me
+## 💼 About Me
 
 🎯 Exploring Product Manager, Associate Product Manager and Product Owner opportunities.  
 💡 Interested in Product Strategy, AI Products, FinTech and SaaS.  
