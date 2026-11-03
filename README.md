@@ -8,16 +8,12 @@ I enjoy understanding user pain points, analysing product experiences, translati
 
 My experience spans product and data reliability at Amazon, product operations and EDI workflows at Vensure, and software engineering at IIT Kanpur.
 
-# 🚀 About Me
+## 🚀 About Me
 
 🎯 Exploring Product Manager, Associate Product Manager and Product Owner opportunities.
-
 💡 Interested in Product Strategy, AI Products, FinTech and SaaS.
-
 📊 Enjoy working with data to identify opportunities and make informed product decisions.
-
 🛠️ Comfortable working with engineering teams and understanding technical architecture.
-
 📚 Currently strengthening my skills in Product Analytics, SQL, JavaScript and Python.
 
 <!--
