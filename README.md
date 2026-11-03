@@ -10,18 +10,14 @@ I'm a Computer Science graduate interested in building products that solve meani
 ## 🪐 About Me
 
 🎯 Exploring Product Manager, Associate Product Manager and Product Owner opportunities.
-
 💡 Interested in Product Strategy, AI Products, FinTech and SaaS.
-
 📊 Enjoy working with data to identify opportunities and make informed product decisions.
-
 🛠️ Comfortable working with engineering teams and understanding technical architecture.
-
-📚 Know SQL, Python, JavaScript and Product Analytics.
+📌 Skilled in translating user needs and business requirements into clear product features and actionable solutions.
 
 ---
 
-## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-srivastava-a64822227/) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srijan18.in@gmail.com)
+## 🌐 Socials: ## 🌐 Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srijan-srivastava-a64822227/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srijan18.in@gmail.com)
 
 ---
 
