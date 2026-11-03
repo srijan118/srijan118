@@ -56,7 +56,6 @@ I'm a Computer Science graduate interested in building products that solve meani
 ![Feature Prioritization](https://img.shields.io/badge/Feature_Prioritization-D35400?style=for-the-badge)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-C0392B?style=for-the-badge)
 ![UAT](https://img.shields.io/badge/UAT-117A65?style=for-the-badge)
-![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-5D6D7E?style=for-the-badge)
 
 ---
 
