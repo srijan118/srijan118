@@ -34,7 +34,7 @@ I'm a Computer Science graduate interested in building products that solve meani
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-[![Lovable](https://img.shields.io/badge/Lovable-FF4D8D?style=for-the-badge&logo=https%3A%2F%2Flovable.dev%2Ffavicon.svg&logoColor=white)](https://lovable.dev/)
+![Lovable](https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=lovable&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
